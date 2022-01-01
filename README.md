@@ -12,7 +12,7 @@ Meu currículo.
 
 
 ## Acesso
-Para acessar entre em https://diovanat.github.io/DioResume/ e faça o download do currículo. 
+Para acessar entre em https://diovanat.github.io/DioResumeNew/ e faça o download do currículo. 
 
 
 ## Tecnologias
